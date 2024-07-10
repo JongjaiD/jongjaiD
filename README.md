@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Jai, but my friends call me Jay.
+  🦊 Last year, I traveled and worked in New Zealand🥝 for a year with my Work Holiday Visa 
+  
+  🛖 I’m currently learning Frontend with Reacts, CSS(Material UI)
+  
+  ⛺ Also learning Backend with NodeJS(NestJS Framework)
+  
+  🤞(mini heart) I'm keen on learning Mobile Appication 
 <!--
 **JongjaiD/jongjaiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
